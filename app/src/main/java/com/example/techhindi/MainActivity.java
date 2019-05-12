@@ -82,15 +82,15 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_facebook) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_twitter) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_instagram) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_email) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.nav_call) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_about) {
 
         }
 
